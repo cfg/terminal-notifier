@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5199791315B1F92B003AFC57"
                BuildableName = "terminal-notifier.app"
-               BlueprintName = "terminal-notifier"
+               BlueprintName = "compass-terminal-notifier"
                ReferencedContainer = "container:Terminal Notifier.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,17 +34,17 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
             BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
+            BlueprintName = "compass-terminal-notifier"
             ReferencedContainer = "container:Terminal Notifier.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
    <LaunchAction
-      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
-      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      selectedDebuggerIdentifier = ""
+      selectedLauncherIdentifier = "Xcode.IDEFoundation.Launcher.PosixSpawn"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "NO"
       allowLocationSimulation = "YES">
@@ -53,7 +53,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
             BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
+            BlueprintName = "compass-terminal-notifier"
             ReferencedContainer = "container:Terminal Notifier.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -113,7 +113,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
             BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
+            BlueprintName = "compass-terminal-notifier"
             ReferencedContainer = "container:Terminal Notifier.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
